@@ -103,6 +103,6 @@ venv.bak/
 # mypy
 .mypy_cache/
 
-/4_downloaders/media
+/downloaders/media
 /.vscode
 
