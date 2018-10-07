@@ -5,7 +5,7 @@ Helper scripts to move my learning sets from Quizlet to Anki.
 1. Export Quizlet sets as text files, with links, separated by tabs.
 1. Concatenate all input files to one
 `awk '{print $0}' 3k-*.txt > 3k.txt`
-1. Convert "term (example)" to "term\texample"
+1. Convert "term (example)" to "term\texample" and fix all formatting error or missing info
 `./detach_example.py raw/3k.txt > detached/3k-detached.txt`
 1. Load 3k-detached.txt in libreoffice calc
     Use only single terms in the translation column. It is easier to make sensible reverse cards.
