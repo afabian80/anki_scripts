@@ -274,7 +274,7 @@ wget -q -O media/hoarse.jpg https://o.quizlet.com/yL2SVxyxp7qVJDAcSGdfqw_m.jpg
 wget -q -O media/hog.jpg https://o.quizlet.com/lYxui.luXRAg7FPnlx0jpw_m.jpg
 wget -q -O media/homage.jpg https://farm5.staticflickr.com/4044/4398228541_8c33428582_m.jpg
 wget -q -O media/hoof.jpg https://farm6.staticflickr.com/5221/5861120303_8a63436e1d_m.jpg
-wget -q -O media/hooker.jpg?quality=90&strip=all&w=618&h=410&crop=1 https://thenypost.files.wordpress.com/2016/06/nypd_hooker-6.jpg?quality=90&strip=all&w=618&h=410&crop=1
+wget -q -O media/hooker.jpg https://thenypost.files.wordpress.com/2016/06/nypd_hooker-6.jpg
 wget -q -O media/hoop.jpg https://o.quizlet.com/i/fIeB5jE02gBkueF7VPMijg_m.jpg
 wget -q -O media/hoot.jpg https://farm2.staticflickr.com/1036/694499591_154d6ad7ba_m.jpg
 wget -q -O media/hoover.jpg https://farm3.staticflickr.com/2176/2186872393_0bedd15e1a_m.jpg

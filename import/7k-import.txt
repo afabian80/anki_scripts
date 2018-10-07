@@ -274,7 +274,7 @@ hoarse	hɔːs	a hoarse voice doesn't sound the way it should	rekedt	<img src="ho
 hog	hɒg	a hog farmer	disznó	<img src="hog.jpg">
 homage	ˈhɒmɪʤ	a memorial to pay homage to the victims	tiszteletadás	<img src="homage.jpg">
 hoof	huːf	beef on the hoof	pata	<img src="hoof.jpg">
-hooker	ˈhʊkə	she's a hooker	prosti	<img src="hooker.jpg?quality=90&strip=all&w=618&h=410&crop=1">
+hooker	ˈhʊkə	she's a hooker	prosti	<img src="hooker.jpg">
 hoop	huːp	hula hoop	karika, abroncs	<img src="hoop.jpg">
 hoot	huːt	the hoot of an owl	huhog	<img src="hoot.jpg">
 hoover	ˈhuːvə	She hoovered the carpet	porszívózik	<img src="hoover.jpg">
