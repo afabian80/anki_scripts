@@ -125,7 +125,7 @@ wget -q -O media/cunning.jpg https://farm8.staticflickr.com/7060/6904712695_751b
 wget -q -O media/curt.jpg https://o.quizlet.com/E3zhfqgD6LhZovHjmdTxtQ_m.jpg
 wget -q -O media/dab.jpg https://o.quizlet.com/1pimyxwTYbdM9whI18DMCg_m.jpg
 wget -q -O media/dagger.jpg https://o.quizlet.com/i/s8KArf8FzhCPkqCaIwolaw_m.jpg
-wget -q -O media/dame.jpg?w968h681 https://static.independent.co.uk/s3fs-public/thumbnails/image/2013/04/17/16/web-thatcher-guest-4-getty.jpg?w968h681
+wget -q -O media/dame.jpg https://static.independent.co.uk/s3fs-public/thumbnails/image/2013/04/17/16/web-thatcher-guest-4-getty.jpg
 wget -q -O media/daze.jpg https://o.quizlet.com/-QJRNHOuUjXYT0VVoo0.0g_m.jpg
 wget -q -O media/deceptive.jpg https://o.quizlet.com/dwLOlekDV8EcayqjuqbrCQ_m.jpg
 wget -q -O media/decor.jpg https://farm3.staticflickr.com/2374/2301097908_ec0c36b6c4_m.jpg
